@@ -45,6 +45,7 @@
     }
 
     #article {
+        position: relative;
         background: #777;
         color: #ebebeb;
     }
