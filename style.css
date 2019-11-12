@@ -32,8 +32,7 @@
         width: 1000px;
     }
 
-
-/* Section */
+/* Section, Article, Mini box 1, Mini box 2 */
 
     .section {
         float: left;
@@ -49,6 +48,16 @@
         background: #777;
         color: #ebebeb;
         width: 200px
+    }
+
+    #minibox1 {
+        background: #ebebeb;
+        color: #777;
+    }
+
+    #minibox2 {
+        background: #ebebeb;
+        color: #777;
     }
 
 /* Aside */
