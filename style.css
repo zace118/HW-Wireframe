@@ -57,8 +57,10 @@
 /* Footer */
 
     .footer {
+        clear: both;
         background: #ebebeb;
         font-size: 10px;
         text-align: center;
-        width: 1000px
+        width: 1000px;
+        height: 20px;
     }
