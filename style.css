@@ -17,6 +17,7 @@
         background: #ebebeb;
         color: #777;
         font-size: 10px;
+        width: 1000px;
     }
 
 /* This is all the styling for the nav bar */
@@ -27,6 +28,7 @@
         text-align: center;
         font-size: 10px;
         margin: 30px 10px;
+        width: 1000px;
     }
 
 
@@ -37,4 +39,5 @@
         font-size: 10px;
         text-align: center;
         margin: 15px 5px;
+        width: 495px;
     }
