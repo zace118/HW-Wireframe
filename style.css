@@ -53,3 +53,12 @@
         margin: 15px 5px;
         width: 495px;
     }
+
+/* Footer */
+
+    .footer {
+        background: #ebebeb;
+        font-size: 10px;
+        text-align: center;
+        width: 1000px
+    }
