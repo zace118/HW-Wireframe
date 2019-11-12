@@ -9,6 +9,7 @@
     }
 
 /* Header style */
+
 /* Can't seem to figure out why the difference between 0px and 1px is so giant under the padding property. Can't get space between the Header and Nav bar */
 
     .header {
@@ -20,7 +21,7 @@
         width: 1000px;
     }
 
-/* This is all the styling for the nav bar */
+/* Nav bar */
 
     .topnav {
         background-color: #ebebeb;
@@ -41,6 +42,11 @@
         text-align: center;
         margin: 15px 15px 15px 15px;
         width: 495px;
+    }
+
+    #article {
+        background: #777;
+        color: #ebebeb;
     }
 
 /* Aside */
