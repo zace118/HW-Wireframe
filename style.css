@@ -45,9 +45,10 @@
     }
 
     #article {
-        position: relative;
+        clear: left;
         background: #777;
         color: #ebebeb;
+        width: 200px
     }
 
 /* Aside */
@@ -58,7 +59,7 @@
         font-size: 10px;
         text-align: center;
         margin: 15px 5px;
-        width: 495px;
+        width: 400px;
     }
 
 /* Footer */
