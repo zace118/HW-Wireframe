@@ -12,11 +12,11 @@
 /* Can't seem to figure out why the difference between 0px and 1px is so giant under the padding property. Can't get space between the Header and Nav bar */
 
     .header {
-        padding: 1px 16px;
+        margin: 30px 10px;
         text-align: center;
         background: #ebebeb;
         color: #777;
-        font-size: 30px;
+        font-size: 10px;
     }
 
 /* This is all the styling for the nav bar */
@@ -25,12 +25,16 @@
         background-color: #ebebeb;
         overflow: hidden;
         text-align: center;
-        font-size: 30px;
+        font-size: 10px;
+        margin: 30px 10px;
     }
 
 
 /* Section */
 
     .section {
-
+        background: #ebebeb;
+        font-size: 10px;
+        text-align: center;
+        margin: 15px 5px;
     }
