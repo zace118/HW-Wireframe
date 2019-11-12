@@ -22,31 +22,15 @@
 /* This is all the styling for the nav bar */
 
     .topnav {
-        background-color: #333;
+        background-color: #ebebeb;
         overflow: hidden;
-    }
-
-    .topnav a{
-        float: left;
-        color: #f2f2f2;
         text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-    }
-
-    .topnav a:hover {
-        background-color: #ddd;
-        color: black;
-    }
-
-    .topnav a.active {
-        background-color: rgb(58, 92, 204);
-        color: white;
+        font-size: 30px;
     }
 
 
+/* Section */
 
+    .section {
 
-
-
+    }
