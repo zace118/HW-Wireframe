@@ -19,6 +19,7 @@
         color: #777;
         font-size: 10px;
         width: 1000px;
+        height: 70px;
     }
 
 /* Nav bar */
@@ -30,6 +31,7 @@
         font-size: 10px;
         margin: 30px 10px;
         width: 1000px;
+        height: 70px;
     }
 
 /* Section, Article, Mini box 1, Mini box 2 */
@@ -41,29 +43,31 @@
         text-align: center;
         margin: 15px 15px 15px 15px;
         width: 495px;
-        height: 250px;
+        height: 350px;
     }
 
-    #article {
-        position: absolute;
-        background: #777;
-        color: #ebebeb;
-        width: 200px
-    }
+        #article {
+            position: relative;
+            left: 70px;
+            background: #777;
+            color: #ebebeb;
+            width: 400px;
+            height: 200px;
+        }
 
-    #minibox1 {
-        margin-left: 20px;
-        margin-right: 20px;
-        background: #ebebeb;
-        color: #777;
-    }
+        #minibox1 {
+            margin-left: 20px;
+            margin-right: 20px;
+            background: #ebebeb;
+            color: #777;
+        }
 
-    #minibox2 {
-        margin-left: 20px;
-        margin-right: 20px;
-        background: #ebebeb;
-        color: #777;
-    }
+        #minibox2 {
+            margin-left: 20px;
+            margin-right: 20px;
+            background: #ebebeb;
+            color: #777;
+        }
 
 /* Aside */
 
@@ -73,8 +77,8 @@
         font-size: 10px;
         text-align: center;
         margin: 15px 5px;
-        width: 400px;
-        height: 250px;
+        width: 425px;
+        height: 350px;
     }
 
 /* Footer */
@@ -85,5 +89,5 @@
         font-size: 10px;
         text-align: center;
         width: 1000px;
-        height: 20px;
+        height: 70px;
     }
