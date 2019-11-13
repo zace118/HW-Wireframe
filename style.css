@@ -43,12 +43,12 @@
         text-align: center;
         margin: 15px 15px 15px 15px;
         width: 495px;
-        height: 350px;
+        height: 300px;
     }
 
         #article {
             position: relative;
-            left: 70px;
+            left: 50px;
             background: #777;
             color: #ebebeb;
             width: 400px;
@@ -78,7 +78,7 @@
         text-align: center;
         margin: 15px 5px;
         width: 425px;
-        height: 350px;
+        height: 300px;
     }
 
 /* Footer */
