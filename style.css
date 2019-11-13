@@ -41,21 +41,26 @@
         text-align: center;
         margin: 15px 15px 15px 15px;
         width: 495px;
+        height: 250px;
     }
 
     #article {
-        clear: left;
+        position: absolute;
         background: #777;
         color: #ebebeb;
         width: 200px
     }
 
     #minibox1 {
+        margin-left: 20px;
+        margin-right: 20px;
         background: #ebebeb;
         color: #777;
     }
 
     #minibox2 {
+        margin-left: 20px;
+        margin-right: 20px;
         background: #ebebeb;
         color: #777;
     }
@@ -69,6 +74,7 @@
         text-align: center;
         margin: 15px 5px;
         width: 400px;
+        height: 250px;
     }
 
 /* Footer */
